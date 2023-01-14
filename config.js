@@ -31,31 +31,29 @@ global.sig = 'https://instagram.com/l4c1f2r'
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.sgh = 'https://github.com/Lucife-Putra'
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6285852688728'
-global.swa = 'wa.me/6285852688728'
+global.sdc = 'https://wa.me/6283875344881'
+global.swa = 'wa.me/6283875344881'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '083875344881'
 global.povo = '-'
-global.pgopay = '085852688728'
+global.pgopay = '-'
 global.ppulsa = '083875344881'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283875344881'
-global.nomorown = '6285852688728','6285236043695'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
-
-
+global.nomorown = '6283875344881'
+global.namebot = 'NexBotz
+global.nameown = 'PutraMod
 /*============== STAFF ==============*/
 global.owner = [
   ['6285236043695'],
   ['6283875344881'],
-  ['6285852688728'],
+  ['6283875344881'],
   ['6282214729677', 'PutraModz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,7 +136,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'Fathoni'
 global.umurowner = '15'
 global.asalowner = 'Jawa timur, Lamongan'
-global.nomorowner = 'wa.me/6285852688728'
+global.nomorowner = 'wa.me/6283875344881'
 global.pacarowner = '?'
 
 /*============== TEXT ==============*/
