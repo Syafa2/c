@@ -46,7 +46,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283875344881'
-global.nomorown = '6285852688728'
+global.nomorown = '6285852688728','6283875344881'
 global.namebot = 'NexBotz'
 global.nameown = 'PutraModz'
 
@@ -54,7 +54,7 @@ global.nameown = 'PutraModz'
 /*============== STAFF ==============*/
 global.owner = [
   ['6282214729677'],
-  ['6283863727733'],
+  ['6283875344881'],
   ['6285852688728'],
   ['6282214729677', 'PutraModz', true]
   // [number, dia creator/owner?, dia developer?]
