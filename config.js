@@ -46,14 +46,14 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283875344881'
-global.nomorown = '6285852688728','6283875344881'
+global.nomorown = '6285852688728','6285236043695'
 global.namebot = 'NexBotz'
 global.nameown = 'PutraModz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
+  ['6285236043695'],
   ['6283875344881'],
   ['6285852688728'],
   ['6282214729677', 'PutraModz', true]
